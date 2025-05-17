@@ -1,1 +1,1 @@
-# Codsoft-quiz-application
+quiz-application
